@@ -133,9 +133,10 @@
   ],
   "console_title_template": "{{ .Folder }}",
   "transient_prompt": {
-    "background": "transparent",
-    "foreground": "#A9E5BB",
-    "template": "\ue285 "
+    "background": "#e0aaff",
+    "foreground": "#3c096c",
+    "template": "<#e0aaff,transparent>\uE0B6</>\u2665 {{ .Shell }} |<#e0aaff,transparent>\uE0B4</>",
+    "newline": true
   },
   "version": 3
 }
