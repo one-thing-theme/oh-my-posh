@@ -8,7 +8,7 @@ _Screenshots:_
 
 ## Recomended settings
 
-If you want to use this theme with all of the features and simplicity, you can start tweak the settings by following the [official guide](https://brookcodetheme.vercel.app/docs)
+If you want to use this theme with all of the features and simplicity, you can start tweak the settings by following the [official guide](https://onethingtheme.vercel.app/docs)
 
 ## Installation
 
