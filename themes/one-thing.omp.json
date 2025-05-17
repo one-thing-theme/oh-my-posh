@@ -92,7 +92,7 @@
           "style": "plain",
           "template": " \u2665 {{ .CurrentDate | date .Format }} |",
           "type": "time",
-          "foreground": "#000000"
+          "foreground": "#adb5bd"
         },
         {
           "style": "plain",
