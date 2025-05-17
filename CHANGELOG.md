@@ -1,5 +1,20 @@
 # CHANGELOG
 
+## [v1.1.2](https://github.com/one-thing-theme/oh-my-posh/releases/tag/v1.1.2) - 2025-05-17 06:12:41
+
+**Full Changelog**: https://github.com/one-thing-theme/oh-my-posh/compare/v1.1.1...v1.1.2
+
+### Documentation
+
+- general:
+  - update the screenshots ([9cb8277](https://github.com/one-thing-theme/oh-my-posh/commit/9cb8277645747724bcc1749caf1ded5c42e4f679))
+  - update the instructions ([fe397b7](https://github.com/one-thing-theme/oh-my-posh/commit/fe397b7ce04248bb9fc925237c12d8509d5d399e))
+
+### Refactor
+
+- general:
+  - adjust color ([2e5f90b](https://github.com/one-thing-theme/oh-my-posh/commit/2e5f90b525f90dcc15dd09ea46b3c8d5943adc8e))
+
 ## [v1.1.1](https://github.com/one-thing-theme/oh-my-posh/releases/tag/v1.1.1) - 2025-05-17 06:03:56
 
 **Full Changelog**: https://github.com/one-thing-theme/oh-my-posh/compare/v1.1.0...v1.1.1
