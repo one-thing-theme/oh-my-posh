@@ -31,7 +31,7 @@ cd themes
 3. Download the one thing themes for oh my posh.
 
 ```
-curl -O https://raw.githubusercontent.com/one-thing-theme/oh-my-posh/refs/heads/main/themes/one-thing.omp.json one-thing.omp.json
+curl -o one-thing.omp.json https://raw.githubusercontent.com/one-thing-theme/oh-my-posh/refs/heads/main/themes/one-thing.omp.json
 ```
 
 4. Update the oh my posh config to use the theme. Inside the .zshrc file update the settings using.
