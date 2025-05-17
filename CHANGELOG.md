@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## [v1.1.1](https://github.com/one-thing-theme/oh-my-posh/releases/tag/v1.1.1) - 2025-05-17 06:03:56
+
+**Full Changelog**: https://github.com/one-thing-theme/oh-my-posh/compare/v1.1.0...v1.1.1
+
+### Refactor
+
+- general:
+  - adjust and remove trail and chars ([6c86286](https://github.com/one-thing-theme/oh-my-posh/commit/6c8628623dde2ee8703d2744edf6ab9eb4c5cca4))
+
 ## [v1.1.0](https://github.com/one-thing-theme/oh-my-posh/releases/tag/v1.1.0) - 2025-05-08 15:31:41
 
 **Full Changelog**: https://github.com/one-thing-theme/oh-my-posh/compare/v1.0.0...v1.1.0
